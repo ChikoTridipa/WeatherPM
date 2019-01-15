@@ -1,0 +1,24 @@
+# Weather Config
+# Biome ID List
+#  - Snowy Tundra : 12
+#  - Ice Spikes : 140
+#  - Snowy Taiga : 30
+#  - Snowy Taiga Mountains : 158
+#  - Frozen River : 11
+#  - Snowy Beach : 26
+#  ---======[*]======---
+#  - Mountains : 3
+#  - Gravelly Mountains : 131
+#  - Wooded Mountains : 34
+#  - Gravelly Mountains + : 162
+#  - Taiga : 5
+#  - Taiga Mountains : 133
+#  - Giant Tree Taiga : 32
+#  - Giant Spruce Taiga : 160
+#  - Stone Shore : 25
+#  ---======[*]======---
+#  - SPRING  : 1
+#  - SNOW : 12
+#  - DRY SEASON : 2 / 35
+
+BiomeID: 12
