@@ -1,2 +1,2 @@
 # WeatherPM
-A Plugin to Custom Weather in your <b>Pocketmine<em> Server
+A Plugin to Custom Weather in your <b>Pocketmine Server
